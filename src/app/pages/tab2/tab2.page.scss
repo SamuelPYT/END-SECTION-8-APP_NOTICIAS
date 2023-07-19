@@ -1,0 +1,5 @@
+// deshabilitar barra del scrollbar
+::-webkit-scrollbar, *::-webkit-scrollbar{
+    display: none !important;
+    overflow: hidden;
+}
